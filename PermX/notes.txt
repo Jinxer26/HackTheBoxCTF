@@ -1,3 +1,19 @@
 
-
 ip = 10.10.11.23
+
+
+Chamilo ???
+CVE-2023-4220 - Vuln
+
+$_configuration['db_host'] = 'localhost';
+$_configuration['db_port'] = '3306';
+$_configuration['main_database'] = 'chamilo';
+$_configuration['db_user'] = 'chamilo';
+$_configuration['db_password'] = '03F6lY3uXAP2bkW8';
+// Enable access to database management for platform admins
+$_configuration['db_manager_enabled'] = false;
+
+
+user > 68664281919a511319237ac8ebf4e6b7
+root > 04e3eb55b9b068e7d7e167db4b9103b4
+
